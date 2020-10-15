@@ -1,9 +1,9 @@
-Buatlah controller until menampilkan 1 view dental form inputan
+Buatlah controller untuk menampilkan 1 view dengan form inputan
 
 1. NIP pegawai
 2. Nama Pegawai
 3. Jumlah Tanggungan
 
-Kemudian ketika submit mask ke controller proses kemudian dental ketentuan
+Kemudian ketika submit masuk ke controller proses kemudian dengan ketentuan
 
-Pika tanggunan lebih dari 10 orang haji 1500000 selain dari itu 1000000
+jika tanggungan lebih dari 10 orang gaji 1500000 selain dari itu 1000000
